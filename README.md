@@ -68,7 +68,7 @@ Top bullet points:
     Review:
     '\'''\'''\''
     
-    Enter Your Text
+    (Enter Your Text or paragraph)
 
     '\'''\'''\''
     
